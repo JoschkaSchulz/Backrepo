@@ -2,6 +2,8 @@
 
 ## Allgmeine Informationen
 
+<img src="https://raw.githubusercontent.com/JoschkaSchulz/Backrepo/master/bilder/baumkuchentorte_1.jpg" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/JoschkaSchulz/Backrepo/master/bilder/baumkuchentorte_2.jpg" width="50%" height="50%">
 
 Original Rezept: [zu Chefkoch](http://www.chefkoch.de/rezepte/2077351335729411/Baumkuchentorte.html)
 
