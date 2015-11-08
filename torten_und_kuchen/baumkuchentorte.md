@@ -7,6 +7,8 @@
 
 Original Rezept: [zu Chefkoch](http://www.chefkoch.de/rezepte/2077351335729411/Baumkuchentorte.html)
 
+Zeitaufwand: hoch
+
 ## Zutaten
 
 ### Kuchen
@@ -35,17 +37,20 @@ Original Rezept: [zu Chefkoch](http://www.chefkoch.de/rezepte/2077351335729411/B
 ## Anleitung
 
 ### Der Teig
-1. Butter, Zucker, Vanillienzucker, Rumaroma, 3 ganzen Eier und 6 Eigelb schaumig mit dem Mixer aufschlagen.
-2. 6 Eiweiß mit dem Salz steif schlagen.
-3. Steifes Eiweiß mit dem Mehl, Stärke und Backpulver unter die erste Mischung ziehen.
+1. __Butter__, __Zucker__, __Vanillienzucker__, __Rumaroma__, __3 ganzen Eier__ und __6 Eigelb__ schaumig mit dem Mixer aufschlagen.
+2. __6 Eiweiß__ mit dem __Salz__ steif schlagen.
+3. Steifes Eiweiß mit dem __Mehl__, __Stärke__ und __Backpulver__ unter die erste Mischung ziehen.
 
 ### Das Backen
 1. Springform mit Backpapier auslegen und immer __2 EL__ Teig darauf verteilen.
-2. Unter der Grillfunktion des Backofen ca. 2-5 Minuten backen, bis die Schicht goldbraun ist.
+2. Unter der Grillfunktion des Backofen ca. __2-5 Minuten__ backen, bis die Schicht goldbraun ist.
 3. Wieder zu Schritt 1, bis der Teig aufgebraucht ist.
 
 ### Die Deko/Glasur
-1. Ausgekühlte Torte mit erwärmter Marmelade bestreichen und wieder abkühlen lassen.
-2. Auf die gekühlte Marmelade die geschmolzene Kuvertüre streichen.
+1. Ausgekühlte Torte mit erwärmter __Marmelade__ bestreichen und wieder abkühlen lassen.
+2. Auf die gekühlte Marmelade die geschmolzene __Kuvertüre__ streichen.
 
 ## Tips & Tricks
+- Wenn die Baumkuchentorte ein paar Tage steht bevor sie gegessen wird, schmeckt sie nur um so besser.
+- Die Torte ist gut haltbar.
+- Durch die glatte Oberfläche lässt sie sich gut verzieren, z.B. mit Fondant oder Marzipan.
