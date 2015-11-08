@@ -4,11 +4,7 @@ Dieses Repo dient einzig und alleine dazu meine Rezepte für Kuchen und anderes 
 
 # Kategorien
 
-## Torten
-
-kommt bald.
-
-## Kuchen
+## Torten & Kuchen
 
 kommt bald.
 
