@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/JoschkaSchulz/Backrepo/master/bilder/catbugtorte_1_fix.jpg" width="32%">
 <img src="https://raw.githubusercontent.com/JoschkaSchulz/Backrepo/master/bilder/baumkuchentorte_3.jpg" width="32%">
 
-Dieses Repo dient einzig und alleine dazu meine Rezepte für Kuchen und anderes Gebäck zu sortieren. Schaut euch ruhig um, vielleicht ist ja das eine oder andere für euch dabei. Wenn ihr super Rezepte habt, stellt doch einen Pull-Request damit ich das Rezept mit aufnehmen kann.
+Eine Sammlung von verschiedenen Rezepten. Wenn ihr mögt könnt ihr gerne einen Pull-Request öffnen um neue Rezepte hinzuzufügen.
 
 # Kategorien
 
@@ -15,3 +15,8 @@ Dieses Repo dient einzig und alleine dazu meine Rezepte für Kuchen und anderes 
 ## Muffins/Cupcakes
 
 - Noch kein Eintrag
+
+## Titel-Bilder
+- Catbug - Kazura & Toby
+- Eulentorte - Kazura
+- Protonetbaumkuchentorte - Joschka
